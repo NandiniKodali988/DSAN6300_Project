@@ -1,4 +1,5 @@
-# DSAN6300_Project
+## DSAN 6300: Database Systems and SQL
+### Mini-Project
 
-### Requirements:
-Max 5 pages
+
+
