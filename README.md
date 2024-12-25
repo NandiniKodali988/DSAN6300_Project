@@ -58,7 +58,7 @@ The data is origanized in **star-schema**.
 1. Questions
    1. Maximum Delay for each airline.
    2. Earliest departure for each airline. 
-   3. Rank days based on busyness, where the busiest day is defind as having the most flights taking off.
+   3. Rank days based on busyness, where the busiest day is defined as having the most flights taking off.
    4. Which airport had the highest average departure delay?
    5. For each airline, which airport experienced the highest average departure delay?
    6. For each airport, what was the most frequent reason for flight cancellation?
