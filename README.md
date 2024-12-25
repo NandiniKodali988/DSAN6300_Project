@@ -37,7 +37,7 @@ Columns used for analysis:
 |SecurityDelay	|Security Delay, in Minutes|
 |LateAircraftDelay|	Late Aircraft Delay, in Minutes|
 
-- Dimension Tables:\
+Dimension Tables:
   
 | Table| Attributes| 
 | :--------:| :-------| 
