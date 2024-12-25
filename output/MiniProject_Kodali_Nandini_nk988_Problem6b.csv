@@ -1,0 +1,277 @@
+Airport_Name,Most_Frequent_Reason,Number_Of_Cancelations
+Minneapolis-St Paul International,Weather,203
+Chicago O'Hare International,Weather,122
+Logan International,Weather,113
+Denver International,Weather,107
+Newark Liberty International,Weather,97
+Dallas/Fort Worth International,National Air System,95
+Baltimore/Washington International Thurgood Marshall,Weather,94
+LaGuardia,Weather,86
+Lihue Airport,Security,79
+John F. Kennedy International,Weather,68
+Washington Dulles International,Weather,65
+Chicago Midway International,Weather,64
+Charlotte Douglas International,Weather,59
+Orlando International,Weather,46
+Daniel K Inouye International,Security,41
+Hartsfield-Jackson Atlanta International,Weather,40
+Hartsfield-Jackson Atlanta International,Carrier,40
+Detroit Metro Wayne County,Weather,36
+Seattle/Tacoma International,Carrier,34
+Fort Lauderdale-Hollywood International,Weather,33
+George Bush Intercontinental/Houston,Weather,32
+Philadelphia International,Weather,32
+Los Angeles International,Weather,31
+Salt Lake City International,Carrier,31
+Ronald Reagan Washington National,Weather,27
+McCarran International,Weather,25
+Phoenix Sky Harbor International,Weather,24
+Theodore Francis Green State,Weather,24
+Miami International,Weather,23
+Aspen Pitkin County Sardy Field,Weather,22
+Nashville International,Weather,22
+Portland International Jetport,Weather,22
+Tampa International,Weather,22
+Buffalo Niagara International,Weather,21
+Des Moines International,Weather,20
+Bradley International,Weather,19
+Manchester-Boston Regional,Weather,19
+Southwest Florida International,Weather,19
+Hector International,Weather,18
+Pittsburgh International,Weather,18
+San Francisco International,Weather,18
+Cleveland-Hopkins International,Weather,17
+Lawton-Fort Sill Regional,Weather,16
+Albany International,Weather,15
+Eagle County Regional,Weather,15
+Luis Munoz Marin International,Weather,15
+Portland International,Carrier,14
+Albuquerque International Sunport,Weather,13
+Joe Foss Field,Weather,13
+Raleigh-Durham International,Weather,13
+San Diego International,Carrier,13
+John Glenn Columbus International,Weather,12
+Metropolitan Oakland International,Security,12
+Palm Springs International,National Air System,12
+Norman Y. Mineta San Jose International,Security,12
+St Louis Lambert International,Weather,12
+Fresno Yosemite International,Weather,11
+William P Hobby,Weather,11
+Kansas City International,Weather,11
+Ted Stevens Anchorage International,Carrier,10
+The Eastern Iowa,Weather,10
+Dallas Love Field,Weather,10
+Eppley Airfield,Weather,10
+Austin - Bergstrom International,Weather,9
+Indianapolis International,Weather,9
+Palm Beach International,Weather,9
+Boise Air Terminal,Weather,8
+Long Island MacArthur,Weather,8
+Ketchikan International,Weather,8
+Harrisburg International,Weather,8
+Sarasota/Bradenton International,Weather,8
+Lehigh Valley International,Weather,7
+Juneau International,Weather,7
+Kahului Airport,Carrier,7
+Cincinnati/Northern Kentucky International,Weather,6
+Mahlon Sweet Field,Security,6
+Gerald R. Ford International,Weather,6
+Jacksonville International,Weather,6
+Ellison Onizuka Kona International at Keahole,Security,6
+Will Rogers World,Weather,6
+Punta Gorda Airport,Security,6
+Rapid City Regional,Weather,6
+John Wayne Airport-Orange County,Carrier,6
+Northwest Arkansas Regional,Weather,6
+Phoenix - Mesa Gateway,Weather,5
+Quad City International,Weather,5
+Norfolk International,Weather,5
+Rochester International,Weather,5
+San Antonio International,Weather,5
+Orlando Sanford International,Security,5
+Sacramento International,Carrier,5
+Cherry Capital,Weather,5
+Atlantic City International,Weather,4
+Watertown Regional,Weather,4
+Bismarck Municipal,Weather,4
+Bellingham International,Security,4
+Duluth International,Weather,4
+Grand Forks International,Weather,4
+Wichita Dwight D Eisenhower National,Weather,4
+Long Beach Airport,Carrier,4
+La Crosse Regional,Weather,4
+Midland International Air and Space Port,Weather,4
+Memphis International,Weather,4
+General Mitchell International,Weather,4
+Minot International,Weather,4
+Dane County Regional-Truax Field,Carrier,4
+Myrtle Beach International,Weather,4
+Plattsburgh International,Security,4
+Cyril E King,Carrier,4
+Syracuse Hancock International,Weather,4
+Tulsa International,Weather,4
+Vernal Regional,Weather,4
+Kodiak Airport,Weather,3
+Rick Husband Amarillo International,Carrier,3
+Appleton International,Weather,3
+Wilkes Barre Scranton International,Weather,3
+Birmingham-Shuttlesworth International,Carrier,3
+Bob Hope,Carrier,3
+Bozeman Yellowstone International,Weather,3
+Charleston AFB/International,Carrier,3
+Yellowstone Regional,Weather,3
+Kearney Regional,Weather,3
+Key West International,Weather,3
+Green Bay Austin Straubel International,Weather,3
+Central Nebraska Regional,Weather,3
+Westchester County,Weather,3
+Hilo International,Security,3
+Jackson Hole,Carrier,3
+Jackson Hole,Weather,3
+John Murtha Johnstown-Cambria County,Weather,3
+Rogue Valley International - Medford,Weather,3
+Missoula International,Weather,3
+Louis Armstrong New Orleans International,Carrier,3
+Montrose Regional,Carrier,3
+Southwest Oregon Regional,Weather,3
+Pensacola International,Carrier,3
+Petersburg James A Johnson,Weather,3
+Provo Municipal,Security,3
+Rhinelander/Oneida County,Weather,3
+Richmond International,Weather,3
+Savannah/Hilton Head International,Weather,3
+Eglin AFB Destin Fort Walton Beach,Security,3
+Eglin AFB Destin Fort Walton Beach,Carrier,3
+Wrangell Airport,Weather,3
+Yakutat Airport,Carrier,3
+Abilene Regional,Weather,2
+Aberdeen Regional,Weather,2
+San Luis Valley Regional/Bergman Field,Weather,2
+Asheville Regional,Carrier,2
+Bangor International,Weather,2
+Bemidji Regional,Weather,2
+Brainerd Lakes Regional,Weather,2
+Merle K Mudhole Smith,Weather,2
+Merle K Mudhole Smith,Carrier,2
+North Central West Virginia,Weather,2
+Houghton County Memorial,Weather,2
+City of Colorado Springs Municipal,National Air System,2
+Corpus Christi International,National Air System,2
+Central Wisconsin,Weather,2
+Chippewa Valley Regional,Weather,2
+Glacier Park International,Carrier,2
+Flagstaff Pulliam,Weather,2
+Spokane International,Carrier,2
+Robert Gray AAF,National Air System,2
+Gunnison-Crested Butte Regional,Weather,2
+Hilton Head Airport,Weather,2
+Range Regional,Weather,2
+Jackson Medgar Wiley Evers International,National Air System,2
+Jamestown Regional,Weather,2
+Laramie Regional,Weather,2
+Lafayette Regional Paul Fournet Field,Weather,2
+Greenbrier Valley,Weather,2
+Lewiston Nez Perce County,Weather,2
+St Pete Clearwater International,Security,2
+Tri Cities,Weather,2
+Roberts Field,Security,2
+Riverton Regional,Weather,2
+Greater Rochester International,Weather,2
+South Bend International,Weather,2
+Stockton Metropolitan,Weather,2
+Shenandoah Valley Regional,Weather,2
+Shreveport Regional,National Air System,2
+San Angelo Regional/Mathis Field,Weather,2
+Sioux Gateway Brig Gen Bud Day Field,Weather,2
+Tucson International,Weather,2
+Tyler Pounds Regional,National Air System,2
+McGhee Tyson,National Air System,2
+Victoria Regional,Weather,2
+Nantucket Memorial,Weather,1
+Waco Regional,National Air System,1
+Adak,Weather,1
+Alexandria International,National Air System,1
+Augusta Regional at Bush Field,National Air System,1
+Alpena County Regional,Weather,1
+Meadows Field,Weather,1
+Billings Logan International,Security,1
+Billings Logan International,Weather,1
+Bert Mooney,Weather,1
+Burlington International,Weather,1
+Akron-Canton Regional,Carrier,1
+Cold Bay Airport,Weather,1
+Cold Bay Airport,Carrier,1
+Cape Girardeau Regional,Weather,1
+Lovell Field,National Air System,1
+Charlottesville Albemarle,Weather,1
+Chippewa County International,Weather,1
+Canyonlands Field,National Air System,1
+Canyonlands Field,Weather,1
+Yeager,Weather,1
+Daytona Beach International,Weather,1
+Durango La Plata County,National Air System,1
+Devils Lake Regional,Weather,1
+Northwest Florida Beaches International,Weather,1
+Northwest Florida Beaches International,Carrier,1
+Elmira/Corning Regional,Weather,1
+El Paso International,National Air System,1
+El Paso International,Carrier,1
+Coastal Carolina Regional,Weather,1
+Fairbanks International,Weather,1
+Fayetteville Regional/Grannis Field,Carrier,1
+Bishop International,Weather,1
+Garden City Regional,Weather,1
+East Texas Regional,National Air System,1
+Grand Junction Regional,Carrier,1
+Gainesville Regional,Weather,1
+Piedmont Triad International,Carrier,1
+Greenville-Spartanburg International,Carrier,1
+Greenville-Spartanburg International,Weather,1
+Great Falls International,Security,1
+Great Falls International,Weather,1
+Yampa Valley,National Air System,1
+Yampa Valley,Carrier,1
+Huntsville International-Carl T Jones Field,National Air System,1
+Huntsville International-Carl T Jones Field,Carrier,1
+Tri-State/Milton J. Ferguson Field,Weather,1
+Niagara Falls International,Security,1
+Falls International Einarson Field,Weather,1
+North Platte Regional Airport Lee Bird Field,Weather,1
+Rickenbacker International,Weather,1
+Bill and Hillary Clinton Nat Adams Field,National Air System,1
+Lincoln Airport,Weather,1
+Laredo International,Carrier,1
+Muskegon County,Weather,1
+Monroe Regional,Carrier,1
+Sawyer International,Weather,1
+Ogdensburg International,Weather,1
+Nome Airport,Carrier,1
+Nome Airport,Weather,1
+Ontario International,Carrier,1
+Ralph Wien Memorial,Weather,1
+Barkley Regional,Weather,1
+General Downing - Peoria International,National Air System,1
+General Downing - Peoria International,Weather,1
+Pueblo Memorial,National Air System,1
+Chicago/Rockford International,Weather,1
+Reno/Tahoe International,National Air System,1
+Reno/Tahoe International,Security,1
+Reno/Tahoe International,Carrier,1
+Santa Barbara Municipal,National Air System,1
+Santa Barbara Municipal,Carrier,1
+San Luis County Regional,Carrier,1
+Deadhorse Airport,Weather,1
+Deadhorse Airport,Carrier,1
+University Park,Weather,1
+Louisville Muhammad Ali International,Weather,1
+Louisville Muhammad Ali International,National Air System,1
+St George Regional,Carrier,1
+Santa Maria Public/Capt. G. Allan Hancock Field,Security,1
+Sheppard AFB/Wichita Falls Municipal,Carrier,1
+Sheppard AFB/Wichita Falls Municipal,National Air System,1
+Charles M. Schulz - Sonoma County,National Air System,1
+Friedman Memorial,Weather,1
+Tallahassee International,National Air System,1
+Toledo Express,Weather,1
+Trenton Mercer,Weather,1
+Yuma MCAS/Yuma International,Carrier,1
