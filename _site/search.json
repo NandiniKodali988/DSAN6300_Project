@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SQL Queries",
+    "section": "",
+    "text": "The aviation industry produces a vast amount of data that plays a pivotal role in monitoring, evaluating, and optimizing airline performance. The Airline On-Time Statistics and Delay Causes dataset, provided by the United States Department of Transportation, offers a comprehensive record of flight data — including flight numbers, departure and arrival times, and causes of delays and cancellations.\nThis site walks through a SQL-based analysis of the dataset, identifying patterns and trends in flight delays and cancellations, and examines how external and operational factors influence these metrics. For each question below, the SQL query is shown alongside the resulting plot."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "SQL Queries",
+    "section": "",
+    "text": "The aviation industry produces a vast amount of data that plays a pivotal role in monitoring, evaluating, and optimizing airline performance. The Airline On-Time Statistics and Delay Causes dataset, provided by the United States Department of Transportation, offers a comprehensive record of flight data — including flight numbers, departure and arrival times, and causes of delays and cancellations.\nThis site walks through a SQL-based analysis of the dataset, identifying patterns and trends in flight delays and cancellations, and examines how external and operational factors influence these metrics. For each question below, the SQL query is shown alongside the resulting plot."
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "SQL Queries",
+    "section": "Data",
+    "text": "Data\n\nData Collection\nThe data was collected from the United States Department of Transportation website for December 2020. Dimension tables were sourced from the provided project materials and were used to build a structured star schema for the analysis.\n\n\nAbout the Dataset\nThe fact table al_perf.csv contains 108 metrics related to flight performance, including arrival/departure delays, cancellations, and delay/cancellation causes for over 370,000 flights in December 2020.\nColumns used in this analysis:\n\n\n\n\n\n\n\nColumn Name\nDescription\n\n\n\n\nDayofMonth\nDay of Month\n\n\nDayOfWeek\nDay of Week\n\n\nReporting_Airline\nUnique Carrier Code\n\n\nOriginAirportID\nOrigin Airport ID (assigned by US DOT)\n\n\nOriginCityName\nOrigin Airport, City Name\n\n\nOriginState\nOrigin Airport, State Code\n\n\nDestAirportID\nDestination Airport ID (assigned by US DOT)\n\n\nDepDelay\nScheduled vs. actual departure time difference (minutes); early departures are negative\n\n\nDepDelayMinutes\nSame as above, but early departures are set to 0\n\n\nCancelled\nCancelled flight indicator (1 = Yes)\n\n\nCancellationCode\nReason for cancellation\n\n\nDistanceGroup\nDistance intervals, every 250 miles, for the flight segment\n\n\nCarrierDelay\nCarrier delay, in minutes\n\n\nWeatherDelay\nWeather delay, in minutes\n\n\nNASDelay\nNational Air System delay, in minutes\n\n\nSecurityDelay\nSecurity delay, in minutes\n\n\nLateAircraftDelay\nLate aircraft delay, in minutes\n\n\n\nDimension tables used:\n\n\n\n\n\n\n\nTable\nAttributes\n\n\n\n\nL_DISTANCE_GROUP_250\nDistanceGroup\n\n\nL_AIRLINE_ID\n(ID, Name) — joined on Reporting_Airline\n\n\nL_AIRPORT_ID\n(ID, Name) — joined on OriginAirportID / DestAirportID\n\n\nL_CANCELATION\n(Code, Reason) — joined on CancellationCode\n\n\nL_WEEKDAYS\n(Code, Day) — joined on DayOfWeek\n\n\n\n\n\nSchema\nThe data is organized as a star schema:"
+  },
+  {
+    "objectID": "index.html#analysis",
+    "href": "index.html#analysis",
+    "title": "SQL Queries",
+    "section": "Analysis",
+    "text": "Analysis\nThe sections below each answer one question from the project requirements: the SQL query used, followed by the resulting plot."
+  }
+]
