@@ -1,4 +1,5 @@
 ---
 title: "SQL Queries"
 author: "Nandini Kodali"
+jupyter: dsan6300-project
 ---
