@@ -59,4 +59,4 @@ The data is organized as a **star schema**:
 
 ## Analysis
 
-The sections below each answer one question from the project requirements: the SQL query used, followed by the resulting plot.
+The following sections present SQL queries and visualizations that explore various aspects of flight delays and cancellations in December 2020. Each query is designed to answer specific questions about the dataset, providing insights into the factors affecting airline performance. 
